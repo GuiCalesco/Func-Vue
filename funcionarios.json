@@ -1,0 +1,40 @@
+{
+  "funcionarios":[
+    {
+      "id":1,
+      "nome": "Clark Kent",
+      "cargo": "Auxiliar Administrativo",
+      "salario": 2000.00
+    },
+        {
+      "id":2,
+      "nome": "Bruce Wayne",
+      "cargo": "Chefe de TI",
+      "salario": 4000.00
+    },
+        {
+      "id":3,
+      "nome": "Steve Rogers",
+      "cargo": "Desenvolvedor Junior",
+      "salario": 2000.00
+    },
+        {
+      "id":4,
+      "nome": "Dianna Prince",
+      "cargo": "Desenvolvedor Senior",
+      "salario": 5000.00
+    },
+        {
+      "id":5,
+      "nome": "Peter Parker",
+      "cargo": "Engenheiro de Software",
+      "salario": 4000.00
+    },
+    {
+      "id":6,
+      "nome": "Luke Skywalker",
+      "cargo": "Analista de Sistemas",
+      "salario": 3500
+    }
+    ]
+}
